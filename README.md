@@ -1,11 +1,3 @@
-# 🛡️ Data Privacy Case Study — Healthcare Data Anonymization
-**Course Code:** BCSE318L · **Semester:** Fall 2025–26  
-**Author:** Vinayak Raina (22BCE2052)  
-**Faculty:** Mohammed Yacoob B. A.  
-**Date of Submission:** 05 November 2025  
-
----
-
 ## 📘 Project Overview  
 This repository contains the **Jupyter Notebook and source code** used for the **Data Privacy Case Study**, focusing on **applying and comparing anonymization techniques** — namely **k-Anonymity**, **l-Diversity**, and **Tokenization** — on a **synthetic healthcare dataset**.
 
