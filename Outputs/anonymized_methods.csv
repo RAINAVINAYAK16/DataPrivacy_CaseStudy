@@ -1,0 +1,5 @@
+Method,Unique_Values,Reversible
+Original,13,Yes
+Tokenization,1000,No
+Hashing,13,No
+Masking,13,Partial
